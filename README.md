@@ -40,4 +40,4 @@
 
 ![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jusato&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jusato&theme=radical&layout=compact)](https://github.com/jusato/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jusato&theme=radical&layout=compact&count_private=false&langs_count=10&hide=makefile,qmake)](https://github.com/jusato/github-readme-stats)
