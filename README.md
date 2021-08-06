@@ -11,8 +11,8 @@
 
 ### Programming Languages
 <a href="https://www.python.org/"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="40" height="40"></a>
-<a href="https://pt.wikipedia.org/wiki/C%2B%2B"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" width="40" height="40"></a>
-<a href="https://pt.wikipedia.org/wiki/C"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" width="40" height="40"></a>
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" width="40" height="40">
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" width="40" height="40">
 
 ### Currently working with
 <a href="https://cloud.google.com/"> <img src="https://camo.githubusercontent.com/582944f6627732531ce1a2e20ad43538d1896e16a5f159ea28fd137dbb8e798a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676f6f676c655f636c6f75642f676f6f676c655f636c6f75642d69636f6e2e737667" width="40" height="40"></a>
@@ -30,9 +30,9 @@
 <a href="https://reactjs.org/"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" width="40" height="40"></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" width="40" height="40"></a>
 <a href="https://www.postgresql.org/"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" width="40" height="40"></a>
-<a href="https://www.sqlite.org/index.html"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/sqlite/sqlite.png" width="40" height="40"></a>
 <a href="https://www.qt.io/"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/qt/qt.png" width="40" height="40"></a>
 <a href="https://www.heroku.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" width="40" height="40"></a>
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" width="40" height="40">
 <a href="https://developer.mozilla.org/docs/Web/JavaScript"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="40" height="40"></a>
 <a href="https://www.r-project.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" width="40" height="40"></a>
 
