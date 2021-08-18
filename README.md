@@ -9,6 +9,7 @@
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-sato/en)
 
+<!--
 ### Programming Languages
 <a href="https://www.python.org/"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="40" height="40"></a>
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" width="40" height="40">
@@ -36,6 +37,7 @@
 <a href="https://developer.mozilla.org/docs/Web/JavaScript"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="40" height="40"></a>
 <a href="https://www.r-project.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" width="40" height="40"></a>
 
+-->
 ### GitHub stats 📊
 
 ![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jusato&show_icons=true&theme=radical&count_private=true)
