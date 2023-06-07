@@ -40,6 +40,6 @@
 -->
 ### GitHub stats 📊
 
-![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jusato&show_icons=true&theme=radical&count_private=true)
+![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jusato&show_icons=true&theme=radical&count_private=true&include_all_commits=true&rank_icon=github)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jusato&theme=radical&layout=compact&count_private=true&langs_count=10&hide=makefile,qmake)](https://github.com/jusato/github-readme-stats)
